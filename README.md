@@ -1,1 +1,1 @@
-# fx-rates-tracker
+# django_shop
